@@ -1,6 +1,6 @@
 # README Generator [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  This is a project made to simplify creating a README for your web development projects. 
+  This project uses code to create a README from the command line! This makes creating READMEs for your projects simpler.
   ## Table of Contents
   1. [Installation](#Installation)
   2. [Usage](#Usage)
@@ -9,13 +9,13 @@
   5. [Questions](#Questions)
   6. [License](#License)
   ## Installation
-  You must download all of the code in this project, then you will open up your command line and type in.
+  To install, you must first download all of the code from this project, then you have to type in "npm init" and click through, then you have to type in "npm install". Once those are done all you have to do is type in "node index" and answer all the questions.
   ## Usage
-  This is used to create READMEs.
+  This project is used to create a professional README from the command line.
   ## Contributing
-  You can contribute to this project by simply reviewing the coding in reaching out to me about ways to improve/simplify it.
+  People can contribute by contacting the author of the code with consturctive critisim.
   ## Testing
-  run teststststststs
+  You can test it by running it yourself.
   ## Questions
   If you want to see anymore of my work or reach out me regarding any questions,
    please feel free to reach out to me through my Github or email.
