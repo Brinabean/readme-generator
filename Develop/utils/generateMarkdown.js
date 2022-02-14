@@ -761,12 +761,12 @@ function generateMarkdown(data) {
   ## Description
   ${data.description}
   ## Table of Contents
-  1. [Installation](#Installation)
-  2. [Usage](#Usage)
-  3. [Contributing](#Contributing)
-  4. [Testing](#Testing)
-  5. [Questions](#Questions)
-  6. [License](#License)
+  1. [Installation](#installation)
+  2. [Usage](#usage)
+  3. [Contributing](#contributing)
+  4. [Testing](#testing)
+  5. [Questions](#questions)
+  6. [License](#license)
   ## Installation
   ${data.installation}
   ## Usage
